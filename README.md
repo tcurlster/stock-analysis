@@ -8,7 +8,7 @@ The purpose of this analysis is to summarize stock performance over multiple yea
 From this analysis, I determined the total daily volume and the yearly return of multiple stocks for 2017 and 2018 solely from the creation of a couple of macros in VBA. After the creation of the inital macros, I was able to refactor the code to consolidate the processes captured in multiple macros into one.
 
 ### 2017 Review
-! Pre-Refactor 2017
+![2017 Pre-Refactor](resources/Pre-Refactor_2017)
 
 - Overall, the stock performance for 2017 was quite impressive. All but one stock had positive returns and 33% had returns over 100%.  Outside of stock analysis, the first iteration of the VBA code used 2 different macros to complete our review.  One to process the data and the second to format.  The processing of data alone took approx. 2 seconds to complete.
 
